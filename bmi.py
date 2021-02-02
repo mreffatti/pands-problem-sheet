@@ -1,7 +1,7 @@
 #BMI Calculator
 #Marcelo Reffatti
 #Version 0.1
-#Validating if the imput is an integer
+#Validating if the input is an integer
 while True:
     try:
         height = int(input ("Enter your height in Centimeters "))
