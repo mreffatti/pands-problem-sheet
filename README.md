@@ -41,7 +41,7 @@ Task
         
 
     Output
-        Sentence in reverse order printing every oder letter in sentece starting from the second last letter
+        Sentence in reverse order printing every oder letter in sentece.
 
 
 ## Usage
