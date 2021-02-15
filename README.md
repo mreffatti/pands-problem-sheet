@@ -85,3 +85,32 @@ kwd-295863170091_net.g_learning&mcid=6626616148786065460&cname=&camid=1153579957
 gclid=CjwKCAiAgc-ABhA7EiwAjev-j4qi9uNOjixFvAtyjBTZbSzcOdE2atZLqEwUy6A3yK6zY6Bce-vwghoCOh0QAvD_BwE&gclsrc=aw.ds)
 
 [StackOverflow](https://stackoverflow.com/questions/tagged/python)
+
+
+## Week 04
+
+Task
+Write a program that outputs whether or not today is a weekday.
+
+    Inputs
+        get today's date from module datetime
+        
+
+    Output
+        Print out day if today is a weekday  or weekend
+
+
+## Usage
+
+    
+    Python weekday.py
+
+    
+## References
+[Linkedin Learning](https://www.linkedin.com/learning/paths/advance-your-skills-in-python?src=go-pa&veh=sem_src.go-pa_c.
+LLS-C_EMEA_All_UKI_Search_Google-NB_DR-PRS_Broad_Dev-Python-Alpha_All_English_Core-MKAG_pkw.python%20learning_pmt.e_pcrid.476826512313_pdv.c_plc._trgid.kwd-295863170091_net.
+g_learning&trk=sem_src.go-pa_c.LLS-C_EMEA_All_UKI_Search_Google-NB_DR-PRS_Broad_Dev-Python-Alpha_All_English_Core-MKAG_pkw.python%20learning_pmt.e_pcrid.476826512313_pdv.c_plc._trgid.
+kwd-295863170091_net.g_learning&mcid=6626616148786065460&cname=&camid=11535799572&asid=115171446649&targetid=kwd-295863170091&crid=476826512313&placement=&dev=c&ends=1&
+gclid=CjwKCAiAgc-ABhA7EiwAjev-j4qi9uNOjixFvAtyjBTZbSzcOdE2atZLqEwUy6A3yK6zY6Bce-vwghoCOh0QAvD_BwE&gclsrc=aw.ds)
+
+[StackOverflow](https://stackoverflow.com/questions/tagged/python)
