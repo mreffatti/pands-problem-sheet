@@ -25,7 +25,7 @@ def main():
         print(f"The Newton Estimate is: {sqrt(n)}")
         print(f"The Math function in Python Estimate is: {math.sqrt(n)}")
 
-#Calling the main funcition    
+#Calling the main funcition.
 main()
     
 
